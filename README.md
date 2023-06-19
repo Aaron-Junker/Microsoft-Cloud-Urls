@@ -1,4 +1,4 @@
-# Microsoft-Cloud-Urls
+# Microsoft.Cloud URLs
 
 [Github Repository](https://github.com/Aaron-Junker/Microsoft-Cloud-Urls)
 
@@ -6,6 +6,7 @@ Recently Microsoft announced the plan to unify all their cloud urls under one do
 
 ![urlsgif_reduced2](https://github.com/Aaron-Junker/Microsoft-Cloud-Urls/assets/58633848/e42b8e13-3942-4130-89e8-05baaa9ff3a5)
 
+## URLs as of 19.06.2023
 
 |URL|Name|Status|Estimated first seen date|
 |-|-|-|-|
