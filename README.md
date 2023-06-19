@@ -4,7 +4,7 @@
 
 Recently Microsoft announced the plan to unify all their cloud urls under one domain: "cloud.microsoft". ([Read more here](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-cloud-microsoft-a-unified-domain-for-microsoft-365/ba-p/3804961))
 
-![image](https://github.com/Aaron-Junker/Microsoft-Cloud-Urls/assets/58633848/a02dcdb2-c3bf-454d-ad0a-a10b23755ce0)
+![urlsgif_reduced2](https://github.com/Aaron-Junker/Microsoft-Cloud-Urls/assets/58633848/e42b8e13-3942-4130-89e8-05baaa9ff3a5)
 
 
 |URL|Name|Status|Estimated first seen date|
