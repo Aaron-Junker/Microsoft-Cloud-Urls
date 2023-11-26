@@ -21,7 +21,7 @@ Recently Microsoft announced the plan to unify all their cloud urls under one do
 |[outlook.cloud.microsoft](https://outlook.cloud.microsoft)|Microsoft Outlook|✅|21st November 2023|
 |[mesh.cloud.microsoft](https://mesh.cloud.microsoft)|-|❌Login redirect misconfigured|7th November 2023|
 |[windows365.microsoft.com](https://windows365.microsoft.com/)|Windows App|➡️Redirects to [windows365.microsoft.com/ent](windows365.microsoft.com/ent)|16th May 2023|
-|[loop.cloud.microsoft/](https://loop.cloud.microsoft/)|Microsoft Loop|❌Homepage showing, but no buttons working|16th August 2023|
+|[loop.cloud.microsoft](https://loop.cloud.microsoft/)|Microsoft Loop|❌Homepage showing, but no buttons working|8th August 2023|
 |**Microsoft Viva**|
 |[viva.cloud.microsoft](https://viva.cloud.microsoft)|Runtime Error|❌Runtime error: `Server Error in '/' Application.`|16th May 2023|
 |[df.engage.cloud.microsoft](https://df.engage.cloud.microsoft)|-|❌`Our services aren't available right now. We're working to restore all services as soon as possible. Please check back soon.`|25th July 2023|
